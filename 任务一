@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>3月热词盘点 | 披着正经外衣的干货们</title>
+	<meta name="keywords" content="3月热词盘点 | 披着正经外衣的干货们">
+	<meta name="description" content="3月热词盘点 | 披着正经外衣的干货们">
+</head>
+<body>
+	<header><h1>优秀社区网站</h1>
+	<ul>
+		<li><a href="http://www.woshipm.com/">人人都是产品经理</a></li>
+		<li><a href="http://www.chanpin100.com/">产品100</a></li>
+		<li><a href="http://www.pmcaff.com/site/selection">PMCAFF</a></li>
+	</ul>
+	</header>
+	<article>
+		<h2>【产品经理】</h2>
+		<p>作者：小百 分类：热点专题</p>
+		<p>产品经理能力<sup>最重要的</sup>不是某一项技能，而是「让正确的事情相继发生」。</p><br>
+		<p>
+			<a href="http://www.chanpin100.com/archives/44141" target="_blank">丁香园PM：什么才是产品经理<strong>最重要</strong>的能力？</a>
+			<br>
+			<a href="http://www.chanpin100.com/archives/45878">【什么是产品的流程图？看完你就懂了】</a>
+			<br/>
+			<a href="http://www.chanpin100.com/archives/44223">【身为产品经理，你真的入门了么？】</a>
+			<br>
+			还记得前面几年，<b>产品经理</b>这词刚在国内兴起，大家对这一职业还没有清晰认识的时候，就被各媒体以<em>零门槛高回报</em>的宣传口号拿来<del>大肆炒</del>，使得大家一个个趋之若鹜，纷纷投身于产品经理这一职业，造成这一行<strong>鱼目混杂</strong>，滥竽充数者数不胜数，时至今日产品经理岗位依然为人所诟病.所以我们时刻都要问自己，作为<small>一名</small>产品经理，我们是否真正明白这份职业所要承担的责任和义务？
+		</p>
+		<img src="http://img.hb.aicdn.com/0111341653f33dec513d0deab4bf24077dadb6fa82709-cPfrqw_fw658" alt="世界">
+<h2>【产品运营】</h2>
+		<p>作者：小百 分类：热点专题</p>
+		<p>
+			<a href="http://www.chanpin100.com/archives/42196" target="_blank">【抓不住用户需求，谈什么产品、运营和商业模式？】</a>
+			<br>
+			<a href="http://www.chanpin100.com/archives/41039">【聊聊互联网产品的分类】</a>
+			<br/>
+			<a href="http://www.chanpin100.com/archives/41962">【让数据和用户服务于你的运营】</a>
+			<br>
+			什么都要靠数据去支撑。比如我们把按钮从左边换到右边，从红色换成黄色。这个东西一定要有什么数据分析团队、数据分析师、产品经理在哪儿反复打磨。最后跟我们说一句，按钮从以前的100像素换到了105像素。这是很<del>无聊</del>的一件事情，但是这个要用数据去验证，你知道吗？
+		</p>
+		<img src="http://zhaolinggan.oss-cn-beijing.aliyuncs.com//1512/thread/14_104_97eea1cee079ed5.jpg" alt="工业设计">
+		<ul>
+			<li>产品设计</li>
+			<li>用户需求</li>
+			<li>职场经验</li>
+			<li>视觉设计</li>
+			<li>数据分析</li>
+		</ul>
+		<h2>图片</h2>
+		<dl>
+			<dd>好看的图片</dd>
+			<dd><img src="http://img.xmfish.com/attachment/thumb/Mon_1103/121_505292_08581e60d0ab933.jpg" alt="零基础HTML编码"></dd>
+		</dl>
+		<dl>
+			<dd>好看的图片</dd>
+			<dd><img src="http://img.xmfish.com/attachment/thumb/Mon_1103/121_505292_08581e60d0ab933.jpg" alt="零基础HTML编码"></dd>
+		</dl>
+	
+		<h3>数据分析</h3>
+		<p>“AARRR”逻辑</p>
+		<ol>
+		  <li>Acquisition 获取用户</li>
+			<li>Activation 激发活跃</li>
+			<li>Retention 提高留存</li>
+			<li>Revenue 增加收入</li>
+			<li>Referral 传播推荐</li>
+		</ol>
+		<p>下面是一个表格，给表格加边框为1，好让我能看到</p>
+		<table border="1">
+			<tr>
+				<th>表头</th>
+				<th>表头</th>
+				<th>表头</th>
+			</tr>
+			<tr>
+				<td>表单元格内容</td>
+				<td>表单元格内容</td>
+				<td><a href="#">操作</a></td>
+			</tr>
+			<tr>
+				<td>表单元格内容</td>
+				<td>表单元格内容</td>
+				<td><a href="#">操作</a></td>
+			</tr>
+			<tr>
+				<td>表单元格内容</td>
+				<td>表单元格内容</td>
+				<td><a href="#">操作</a></td>
+			</tr>
+			<tr>
+				<td>总计</td>
+				<td colspan="2">5</td>
+			</tr>
+		</table>
+		<h2>这里是最后一个标题</h2>
+		<h3>侧栏与注册</h3>
+		<!-- <p>请输入邮箱地址：<input type="text" value="请输入邮箱地址" name="email"></p> -->
+		<p>请输入邮箱地址：<input type="email" placeholder="请输入邮箱地址" name="email"></p>
+		<p>邮箱地址请按要求输入</p>
+		<p>
+			请输入密码：<input type="password" placeholder="请输入密码" name="pwd">
+			再次输入密码：<input type="password" placeholder="请输入密码" name="pwd">
+		</p>
+		<p>密码为6-10位数字</p>
+		<form action="">
+		性别：
+			<input type="radio" name="sex" id="" value="男" checked>男
+			<input type="radio" name="sex" id="" value="女">女
+			&nbsp城市
+			<select name="city" id="">
+				<option value="0">天津</option>
+				<option value="1">北京</option>
+			</select>
+			<input type="checkbox" name="ah" id="">四级
+			<input type="checkbox" name="ah" id="" checked>六级
+			<input type="checkbox" name="ah" id="">专四
+			<input type="checkbox" name="ah" id="">专八
+			<textarea name="des" id="" cols="20" rows="1">我是一个……</textarea>
+			<input type="submit" value="提交">
+			<input type="reset" value="重置">
+		</form>
+	</article>
+	<footer>版权所没有©Everybody</footer>
+</body>
+</html>
