@@ -1,3 +1,6 @@
+git checkout --orphan gh-pages
+rm -rf *
+git push -u origin gh-pages
 <!DOCTYPE html>
 <html lang="en">
 <head>
